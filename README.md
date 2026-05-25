@@ -65,15 +65,18 @@ npm run dev
 
 ```text
 Memphis-Dijkstra-Smart-City/
-├── src/                # React / TypeScript 프론트엔드 소스코드
-│   ├── components/     # UI 및 토폴로지 렌더링 컴포넌트
-│   ├── algorithms/     # Min-Heap 최적화 다익스트라 알고리즘 소스
-│   └── App.tsx         # 메인 어플리케이션 엔트리
-├── images/             # 리포지토리 시각화용 이미지 리소스 (Figure 1, 2)
-├── index.html          # HTML 메인 파일
-├── package.json        # NPM 패키지 설정 정보
-├── vite.config.ts      # Vite 빌드 및 개발서버 설정 (Port: 3000)
-└── README.md           # 본 안내 파일
+├── src/                # React / TypeScript frontend source code
+│   ├── components/     # UI & topology rendering components
+│   └── App.tsx         # Main application entry
+├── algorithms/         # Multi-Language Algorithm Suite (Dijkstra Optimization)
+│   ├── dijkstra.c      # Pure C version (Custom Binary Min-Heap implemented from scratch)
+│   ├── dijkstra.py     # Pure Python version (Utilizing standard heapq module)
+│   └── dijkstra.ts     # Pure TypeScript version
+├── images/             # Repository visualization images (Figure 1, 2)
+├── index.html          # Main HTML entry
+├── package.json        # NPM package settings
+├── vite.config.ts      # Vite build & dev-server settings (Port: 3000)
+└── README.md           # This document
 ```
 
 ---
