@@ -1,0 +1,6 @@
+{
+  "name": "Memphis Dijkstra & Smart City",
+  "description": "Interactive Dijkstra's algorithm visualization and real-world dynamic routing demo with Memphis design style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
