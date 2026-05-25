@@ -89,4 +89,3 @@ Memphis-Dijkstra-Smart-City/
 
 ## 🧑‍💻 기여자 (Authors)
 * **이원선 (Won-sun Lee)** - 마닐라한국아카데미 고등학교 3학년 (Manila Korean Academy, Grade 12)
-* **이재원 (Jae-won Lee)** - KAIST, 전기및전자공학부 책임연구원
